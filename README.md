@@ -2,7 +2,7 @@
 
 ## Code for bachelor thesis: Automated diagnose of sleep disorders using actigraphy wearable device
 
-|threshold| sensitivity | specificity |accuracy |MCC |
+|time window (minutes) | sensitivity (%)| specificity (%)|accuracy (%)|MCC (-)|
 | --- | --- | --- | --- | --- |
 | 3| 74.36| 67.73| 74.47|    0.37|
 | 5| 66.28	|77.07| 71.21|   0.36|
