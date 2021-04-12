@@ -18,3 +18,10 @@
 |3 |3 |10 | 83.66 | 54.11 | 75.94 | 0.36 | sensitivity|
 
 
+### Feature definitions
+
+|TIB|SOL|TST|WASO|SWR|SFI|SE|
+|---|---|---|---|---|---|---|
+|min|min|min|min|-|-|%|
+| | time to fall asleep| duration of all sleep epochs from SOL to sleep end| duration of all wake epochs from SOL to sleep end| TST/WASO| number of all wake epochs from SOL to sleep end / TST in hours | TST/TIB*100|
++ 1 epoch = 30 s
