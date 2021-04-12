@@ -25,5 +25,5 @@
 |TIB|SOL|TST|WASO|SWR|SFI|SE|
 |---|---|---|---|---|---|---|
 |min|min|min|min|-|-|%|
-| duration of time in bed (possibly without non-sleep activities)| duration wake epochs before sleep onset)| duration of all sleep epochs from SOL to sleep end| duration of all wake epochs from SOL to sleep end| TST/WASO| number of all wake intervals from SOL to sleep end / TST in hours | TST/TIB*100|
+| duration of time in bed (possibly without non-sleep activities)| duration of wake epochs before sleep onset)| duration of all sleep epochs| duration of wake epochs from SO to sleep end| TST/WASO| number of wake intervals from SO to sleep end / TST in hours | TST/TIB*100|
 + 1 epoch = 30 s
