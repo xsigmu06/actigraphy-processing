@@ -2,6 +2,8 @@
 
 ## Code for bachelor thesis: Automated diagnose of sleep disorders using actigraphy wearable device
 
++ if github won't load .ipynb file: https://nbviewer.jupyter.org/github/xsigmu06/actigraphy-processing/tree/main/
+
 ### Algorithm results
 
 - Tested (+ combination): | SO threshold 3,5,10 | time window (minutes) 3,5,10 | angle 3,5,10 |
