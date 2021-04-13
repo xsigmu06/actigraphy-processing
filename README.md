@@ -24,6 +24,7 @@
 
 |TIB|SOL|TST|WASO|SWR|SFI|SE|
 |---|---|---|---|---|---|---|
+|Time In Bed|Sleep Onset Latency|Total Sleep Time|Wake After Sleep Onset|Sleep-Wake Ratio|Sleep Fragmentation Index|Sleep Efficiency|
 |min|min|min|min|-|-|%|
 | duration of time in bed (possibly without non-sleep activities)| duration of wake epochs before sleep onset)| duration of all sleep epochs| duration of wake epochs from SO to sleep end| TST/WASO| number of wake intervals from SO to sleep end / TST in hours | TST/TIB*100|
 + 1 epoch = 30 s
