@@ -6,7 +6,7 @@
 
 ### Algorithm results
 
-- Tested (+ combination): | SO threshold 3,5,10 | time window (minutes) 3,5,10 | angle 3,5,10 |
+- Tested (+ combination = 27 total): | SO threshold 3,5,10 | time window (minutes) 3,5,10 | angle 3,5,10 |
 
 |SO threshold | time window (minutes) | angle | sensitivity (%)| specificity (%)|accuracy (%)|MCC (-)| note |
 | --- | --- | --- | --- | --- | --- | --- | ---|
