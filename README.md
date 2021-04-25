@@ -6,7 +6,7 @@
 
 ### Algorithm results
 
-- chosen 10|3|10 for it's accuracy
+- chosen 10 | 3 | 10 for it's accuracy
 - Tested (+ combination = 27 total): | SO threshold 3,5,10 | time window (minutes) 3,5,10 | angle 3,5,10 |
 
 |SO threshold | time window (minutes) | angle | sensitivity (%)| specificity (%)|accuracy (%)|MCC (-)| note |
@@ -17,7 +17,7 @@
 | ... | ... | ... | ... | ... | ... | ... |  ... |
 |5| 5| 5| 71.17|	72.30|	71.63 |	0.36	|VanHees|
 | ... | ... | ... | ... | ... | ... | ... |  ... |
-|**10 |3 |10 | 82.61 | 60.61 | 77.03 | 0.40 | accuracy**|
+|**10** |**3** |**10** | **82.61 **| **60.61 **| **77.03** | **0.40 **| **accuracy**|
 | ... | ... | ... | ... | ... | ... | ... |  ... |
 |10 |5 |10 | 75.99 | 70.37 | 74.83 | 0.40 | balanced|
 |10 |10 |3 | 48.96 | 85.32 | 59.55 | 0.28 | specificity|
