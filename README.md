@@ -1,6 +1,6 @@
-# actigraphy-processing
+# Actigraphy-processing
 
-## Code for bachelor thesis: Automated diagnose of sleep disorders using actigraphy wearable device
+## Bachelor thesis: Automated diagnose of sleep disorders using actigraphy wearable device
 
 + if github won't load .ipynb file: https://nbviewer.jupyter.org/github/xsigmu06/actigraphy-processing/tree/main/
 
@@ -30,3 +30,16 @@
 |min|min|min|min|-|-|-|%|
 | duration of time in bed (possibly without non-sleep activities)| duration of wake epochs before sleep onset)| duration of all sleep epochs| duration of wake epochs from SO to sleep end| number of wake intervals > 5 minutes| TST/WASO| number of wake intervals from SO to sleep end / TST in hours | TST/TIB*100|
 + 1 epoch = 30 s
+
+### Poor sleep detection
+
+#### Controls = without sleep disorder diagnose
++ PSG
+![image](https://user-images.githubusercontent.com/60696576/116549648-0ab53100-a8f6-11eb-96cf-f2dfc10acf63.png)
++ ACG
+![image](https://user-images.githubusercontent.com/60696576/116549737-2587a580-a8f6-11eb-85c6-ea2389da5358.png)
++ ACG Lewy Body Demencia probability
+![image](https://user-images.githubusercontent.com/60696576/116549923-5f58ac00-a8f6-11eb-8204-7348cf3b461f.png)
+
+
+
