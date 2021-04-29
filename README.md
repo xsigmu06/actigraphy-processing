@@ -34,11 +34,11 @@
 ### Poor sleep detection
 
 #### Poor sleep decided according to SOL, NA>5 & SE according to this study: https://doi.org/10.1016/j.sleh.2016.11.006
-+ PSG
++ PSG (1 day laboratory recording)
 ![image](https://user-images.githubusercontent.com/60696576/116549648-0ab53100-a8f6-11eb-96cf-f2dfc10acf63.png)
-+ ACG
++ ACG (1 day laboratory recording)
 ![image](https://user-images.githubusercontent.com/60696576/116549737-2587a580-a8f6-11eb-85c6-ea2389da5358.png)
-+ ACG Lewy Body Dementia probability
++ ACG Lewy Body Dementia probability (7 day recording at home)
 ![image](https://user-images.githubusercontent.com/60696576/116549923-5f58ac00-a8f6-11eb-8204-7348cf3b461f.png)
 
 
