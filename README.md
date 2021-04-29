@@ -33,7 +33,7 @@
 
 ### Poor sleep detection
 
-#### Controls = without sleep disorder diagnose
+#### Poor sleep decided according to SOL, NA>5 & SE according to this study: https://doi.org/10.1016/j.sleh.2016.11.006
 + PSG
 ![image](https://user-images.githubusercontent.com/60696576/116549648-0ab53100-a8f6-11eb-96cf-f2dfc10acf63.png)
 + ACG
