@@ -24,11 +24,11 @@
 
 ### Feature definitions
 
-|TIB|SOL|TST|WASO|NA>5|SWR|SFI|SE|
+|TIB|SOL|TST|WASO|NA>5|SFI|SWR|SE|
 |---|---|---|---|---|---|---|---|
 |Time In Bed|Sleep Onset Latency|Total Sleep Time|Wake After Sleep Onset|Number of Awakenings > 5|Sleep-Wake Ratio|Sleep Fragmentation Index|Sleep Efficiency|
 |min|min|min|min|-|-|-|%|
-| duration of time in bed (possibly without non-sleep activities)| duration of wake epochs before sleep onset)| duration of all sleep epochs| duration of wake epochs from SO to sleep end| number of wake intervals > 5 minutes| TST/WASO| number of wake intervals from SO to sleep end / TST in hours | TST/TIB*100|
+| duration of time in bed (possibly without non-sleep activities)| duration of wake epochs before sleep onset)| duration of all sleep epochs| duration of wake epochs from SO to sleep end| number of wake intervals > 5 minutes|number of wake intervals from SO to sleep end / TST in hours | TST/WASO|  TST/TIB*100|
 + 1 epoch = 30 s
 
 ### Poor sleep detection
