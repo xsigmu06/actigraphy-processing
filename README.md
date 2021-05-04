@@ -2,7 +2,8 @@
 
 ## Bachelor thesis: Automated diagnose of sleep disorders using actigraphy wearable device
 
-+ if github won't load .ipynb file: https://nbviewer.jupyter.org/github/xsigmu06/actigraphy-processing/tree/main/
++ if github won't load .ipynb file (usually works after one reload): 
++ + https://nbviewer.jupyter.org/github/xsigmu06/actigraphy-processing/tree/main/ 
 
 ### Algorithm results
 
