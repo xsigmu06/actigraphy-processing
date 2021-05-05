@@ -4,6 +4,12 @@
 
 + if github won't load .ipynb file (usually works after one reload): https://nbviewer.jupyter.org/github/xsigmu06/actigraphy-processing/tree/main/ 
 
+### Datased
+- openly available at: https://doi.org/10.5281/zenodo.1160410
+- not used:
+- - mescleep 14 right - algorithm was not able to compute, the recording had constant movement in it
+- - mescleep 29 - different date of acg and psg recording
+
 ### Algorithm results
 
 - chosen 10 | 3 | 10 for it's accuracy
